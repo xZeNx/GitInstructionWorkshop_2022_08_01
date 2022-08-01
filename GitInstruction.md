@@ -11,6 +11,13 @@
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
+* **Git для Windows,Mac,Linux:**  [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+    При первом использовании Git необходимо представитсься. Для этого нужно ввести в терминал команды:
+
+    1. git config --global user.name "Ваше имя английскими буквами" git
+
+    2. config -- global user.email ваша_почта@example.com
 
 #### Первая настройка git
 
